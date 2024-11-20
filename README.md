@@ -10,7 +10,7 @@ This project demonstrates how to build a simple **Line Follower Robot** using th
 2. L298N Motor Driver Module
 3. IR Sensors (2 units)
 4. DC Motors (2 units)
-5. 18650 Battery (7V to 12V)
+5. 7V to 12V Li-ion battery
 6. Switch
 7. Connecting Wires
 8. Chassis for mounting the components

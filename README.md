@@ -2,8 +2,9 @@
 
 This project demonstrates how to build a simple **Line Follower Robot** using the ESP32 microcontroller, L298N motor driver, IR sensors, and DC motors. The robot detects and follows a line using IR sensors, making decisions based on the sensor inputs to navigate along the path.
 
-![image alt](https://github.com/SANJAY-K-04/Line-Follower-Robot-Using-ESP32/blob/main/Screenshot%202024-11-20%20154536.png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/SANJAY-K-04/Line-Follower-Robot-Using-ESP32/blob/main/Screenshot%202024-11-20%20154536.png?raw=true" width="700" alt="Top View"><br>
+</p>
 
 ## Components Used
 1. ESP32 Microcontroller
@@ -19,8 +20,9 @@ This project demonstrates how to build a simple **Line Follower Robot** using th
 
 ## Circuit Diagram
 
-![image alt](https://github.com/SANJAY-K-04/Line-Follower-Robot-Using-ESP32/blob/main/image3.jpg?raw=true)
-
+<p align="center">
+  <img src="https://github.com/SANJAY-K-04/Line-Follower-Robot-Using-ESP32/blob/main/image3.jpg?raw=true" width="700" alt="Top View"><br>
+</p>
 ---
 
 ## How It Works
